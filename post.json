@@ -1,0 +1,16 @@
+[
+  {
+    "id": 1,
+    "title": "Post 1",
+    "author": "Autore 1",
+    "content": "Contenuto del post 1",
+    "score": 10
+  },
+  {
+    "id": 2,
+    "title": "Post 2",
+    "author": "Autore 2",
+    "content": "Contenuto del post 2",
+    "score": 5
+  }
+]
